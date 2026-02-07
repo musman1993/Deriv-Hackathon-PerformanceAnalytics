@@ -1,0 +1,19 @@
+,id,name,inward,outward,self
+Blocks,10800,Blocks,is blocked by,blocks,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10800
+Bonfire testing,10570,Bonfire testing,Testing discovered,Discovered while testing,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10570
+Cause,10040,Cause,is caused by,causes,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10040
+Cloners,10041,Cloners,cloned by,clones,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10041
+Depends,10170,Depends,is depended on by,depends on,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10170
+Discovery - Connected,13810,Discovery - Connected,is connected to,connects to,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/13810
+Duplicate,10010,Duplicate,is duplicated by,duplicates,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10010
+Epic,10370,Epic,is the epic for,belongs to epic,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10370
+Follows,10470,Follows,Followed up by,Follow up to,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10470
+Part,10050,Part,is incorporated by,incorporates,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10050
+Polaris datapoint work item link,10806,Polaris datapoint work item link,added to idea,is idea for,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10806
+Polaris merge work item link,10805,Polaris merge work item link,merged into,merged from,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10805
+Polaris work item link,10804,Polaris work item link,is implemented by,implements,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10804
+Preceded By,10670,Preceded By,Preceded By,Precedes,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10670
+Reference,10042,Reference,is referenced by,references,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10042
+Relate,10000,Relate,is related to,relates to,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10000
+Split,10060,Split,was split into,was split from,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10060
+Work item split,10700,Work item split,split from,split to,https://ecosystem.atlassian.net/rest/api/2/issueLinkType/10700

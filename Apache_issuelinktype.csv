@@ -1,0 +1,21 @@
+,id,name,inward,outward,self
+Blocked,12310361,Blocked,Blocked,Blocked,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310361
+Blocker,10032,Blocker,is blocked by,blocks,https://issues.apache.org/jira/rest/api/2/issueLinkType/10032
+Child-Issue,12310460,Child-Issue,is a child of,is a parent of,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310460
+Cloners,10020,Cloners,is cloned by,is a clone of,https://issues.apache.org/jira/rest/api/2/issueLinkType/10020
+Completes,12310660,Completes,is fixed by,fixes,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310660
+Container,12310060,Container,Is contained by,contains,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310060
+Dependency,12310461,Dependency,Dependency,Dependency,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310461
+Dependent,12310360,Dependent,Dependent,Dependent,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310360
+Duplicate,12310000,Duplicate,is duplicated by,duplicates,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310000
+Incorporates,12310010,Incorporates,is part of,incorporates,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310010
+Issue split,12310761,Issue split,split from,split to,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310761
+Parent Feature,12310462,Parent Feature,Parent Feature,Parent Feature,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310462
+Problem/Incident,12310560,Problem/Incident,is caused by,causes,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310560
+Reference,10030,Reference,is related to,relates to,https://issues.apache.org/jira/rest/api/2/issueLinkType/10030
+Regression,12310050,Regression,is broken by,breaks,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310050
+Related,12310260,Related,is related to,relates to,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310260
+Required,12310040,Required,is required by,requires,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310040
+Supercedes,12310051,Supercedes,is superceded by,supercedes,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310051
+Testing,12310760,Testing,Discovered while testing,Testing discovered,https://issues.apache.org/jira/rest/api/2/issueLinkType/12310760
+dependent,10001,dependent,is depended upon by,depends upon,https://issues.apache.org/jira/rest/api/2/issueLinkType/10001

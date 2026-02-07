@@ -1,0 +1,58 @@
+,self,id,description,iconUrl,name,subtask,avatarId
+Bug,https://jira.atlassian.com/rest/api/2/issuetype/1,1,A problem which impairs or prevents the functions of the product.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51493&avatarType=issuetype,Bug,False,51493.0
+Suggestion,https://jira.atlassian.com/rest/api/2/issuetype/10000,10000,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51505&avatarType=issuetype,Suggestion,False,51505.0
+Support Request,https://jira.atlassian.com/rest/api/2/issuetype/5,5,Issue that is likely specific to the installation,https://jira.atlassian.com/images/icons/status_generic.gif,Support Request,False,
+Public Security Vulnerability,https://jira.atlassian.com/rest/api/2/issuetype/10700,10700,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=98192&avatarType=issuetype,Public Security Vulnerability,False,98192.0
+Usability,https://jira.atlassian.com/rest/api/2/issuetype/11400,11400,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Usability,False,51490.0
+Sub-task,https://jira.atlassian.com/rest/api/2/issuetype/6,6,The sub-task of the issue,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51506&avatarType=issuetype,Sub-task,True,51506.0
+New Feature,https://jira.atlassian.com/rest/api/2/issuetype/2,2,"A new feature of the product, which has yet to be developed.",https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51501&avatarType=issuetype,New Feature,False,51501.0
+Task,https://jira.atlassian.com/rest/api/2/issuetype/3,3,A task that needs to be done.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51508&avatarType=issuetype,Task,False,51508.0
+Improvement,https://jira.atlassian.com/rest/api/2/issuetype/4,4,An improvement or enhancement to an existing feature or task.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51500&avatarType=issuetype,Improvement,False,51500.0
+Third-party issue,https://jira.atlassian.com/rest/api/2/issuetype/7,7,An issue relating to a third-party product (eg. app server) that nevertheless affects this product,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Third-party issue,False,51490.0
+Laurel Marketing Task,https://jira.atlassian.com/rest/api/2/issuetype/8,8,Marketing Tasks for Laurel in the SF Office,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Laurel Marketing Task,False,51490.0
+Atlassian Task,https://jira.atlassian.com/rest/api/2/issuetype/10,10,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51493&avatarType=issuetype,Atlassian Task,False,51493.0
+OEM Task,https://jira.atlassian.com/rest/api/2/issuetype/11,11,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51500&avatarType=issuetype,OEM Task,False,51500.0
+Development Task,https://jira.atlassian.com/rest/api/2/issuetype/12,12,Internal Atlassian development task,https://jira.atlassian.com/images/icons/issuetypes/requirement.png,Development Task,False,
+Dev. Sub-task,https://jira.atlassian.com/rest/api/2/issuetype/13,13,Development subtask,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51506&avatarType=issuetype,Dev. Sub-task,True,51506.0
+Test Case,https://jira.atlassian.com/rest/api/2/issuetype/14,14,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Test Case,False,51490.0
+Non-project task,https://jira.atlassian.com/rest/api/2/issuetype/15,15,A Task that has to be done but doesn't directly relate to the project,https://jira.atlassian.com/images/icons/issuetypes/exclamation.png,Non-project task,False,
+Story,https://jira.atlassian.com/rest/api/2/issuetype/16,16,Created by Jira Software - do not edit or delete. Issue type for a user story.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51504&avatarType=issuetype,Story,False,51504.0
+Crucible Subtask,https://jira.atlassian.com/rest/api/2/issuetype/17,17,Subtask raised from a Crucible review,http://jira.atlassian.com/download/resources/com.atlassian.jirafisheyeplugin:fisheye-projectpanel/makereview.gif,Crucible Subtask,True,
+Request,https://jira.atlassian.com/rest/api/2/issuetype/18,18,A User Request,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51501&avatarType=issuetype,Request,False,51501.0
+Epic,https://jira.atlassian.com/rest/api/2/issuetype/19,19,Created by Jira Software - do not edit or delete. Issue type for a big user story that needs to be broken down.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51497&avatarType=issuetype,Epic,False,51497.0
+Retrospective,https://jira.atlassian.com/rest/api/2/issuetype/20,20,Holds retro stuff,https://jira.atlassian.com/images/icons/issuetypes/health.png,Retrospective,False,
+Technical Story,https://jira.atlassian.com/rest/api/2/issuetype/21,21,"A backend ""story""",https://jira.atlassian.com/images/icons/issuetypes/task_agile.png,Technical Story,False,
+Technical task,https://jira.atlassian.com/rest/api/2/issuetype/22,22,A technical task.,https://jira.atlassian.com/download/resources/com.pyxis.greenhopper.jira:greenhopper-webactions/images/ico_task.png,Technical task,True,
+UX Story,https://jira.atlassian.com/rest/api/2/issuetype/23,23,A story that's more about making a feature most lust worthy,https://jira.atlassian.com/images/icons/issuetypes/health.png,UX Story,False,
+Dev Speed,https://jira.atlassian.com/rest/api/2/issuetype/24,24,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51497&avatarType=issuetype,Dev Speed,False,51497.0
+QA Task,https://jira.atlassian.com/rest/api/2/issuetype/25,25,,http://confluence.atlassian.com/images/icons/magnify_16.png,QA Task,True,
+Infrastructure,https://jira.atlassian.com/rest/api/2/issuetype/26,26,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51505&avatarType=issuetype,Infrastructure,False,51505.0
+Documentation,https://jira.atlassian.com/rest/api/2/issuetype/27,27,,https://jira.atlassian.com/images/icons/issuetypes/documentation.png,Documentation,False,
+Fug,https://jira.atlassian.com/rest/api/2/issuetype/28,28,Its not quite a feature and not quite a bug its a fug!,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51500&avatarType=issuetype,Fug,False,51500.0
+Feedback,https://jira.atlassian.com/rest/api/2/issuetype/29,29,Feedback,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Feedback,False,51490.0
+Customer Problem,https://jira.atlassian.com/rest/api/2/issuetype/30,30,A general description of a customer problem,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51497&avatarType=issuetype,Customer Problem,False,51497.0
+Inquiry,https://jira.atlassian.com/rest/api/2/issuetype/31,31,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Inquiry,False,51490.0
+Feature,https://jira.atlassian.com/rest/api/2/issuetype/32,32,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Feature,False,51490.0
+Marketing Request,https://jira.atlassian.com/rest/api/2/issuetype/33,33,"Request for a blog post, event, or campaign assistance",https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51504&avatarType=issuetype,Marketing Request,False,51504.0
+Dependency,https://jira.atlassian.com/rest/api/2/issuetype/34,34,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Dependency,False,51490.0
+Enhancement,https://jira.atlassian.com/rest/api/2/issuetype/35,35,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Enhancement,False,51490.0
+PM Decision,https://jira.atlassian.com/rest/api/2/issuetype/36,36,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,PM Decision,False,51490.0
+Risk,https://jira.atlassian.com/rest/api/2/issuetype/37,37,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51498&avatarType=issuetype,Risk,False,51498.0
+Concern,https://jira.atlassian.com/rest/api/2/issuetype/38,38,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51493&avatarType=issuetype,Concern,True,51493.0
+UX,https://jira.atlassian.com/rest/api/2/issuetype/39,39,A user experience task,https://jira.atlassian.com/images/icons/issuetypes/health.png,UX,False,
+Testing Task,https://jira.atlassian.com/rest/api/2/issuetype/40,40,,https://jira.atlassian.com/images/icons/issuetypes/task_agile.png,Testing Task,False,
+Event,https://jira.atlassian.com/rest/api/2/issuetype/10100,10100,Analytics event,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Event,False,51490.0
+Lighten,https://jira.atlassian.com/rest/api/2/issuetype/10200,10200,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51494&avatarType=issuetype,Lighten,False,51494.0
+Experiment,https://jira.atlassian.com/rest/api/2/issuetype/10300,10300,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51494&avatarType=issuetype,Experiment,False,51494.0
+Investigation,https://jira.atlassian.com/rest/api/2/issuetype/10400,10400,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51510&avatarType=issuetype,Investigation,False,51510.0
+Technical Improvement,https://jira.atlassian.com/rest/api/2/issuetype/10401,10401,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=98190&avatarType=issuetype,Technical Improvement,False,98190.0
+Spam Issue,https://jira.atlassian.com/rest/api/2/issuetype/10500,10500,This issue is a piece of Spam.,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=98192&avatarType=issuetype,Spam Issue,False,98192.0
+Terminology Update,https://jira.atlassian.com/rest/api/2/issuetype/10600,10600,,https://jira.atlassian.com/images/icons/issuetypes/genericissue.png,Terminology Update,False,
+Innovation,https://jira.atlassian.com/rest/api/2/issuetype/10800,10800,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=98191&avatarType=issuetype,Innovation,False,98191.0
+Request for info,https://jira.atlassian.com/rest/api/2/issuetype/10900,10900,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Request for info,False,51490.0
+Training/Enablement,https://jira.atlassian.com/rest/api/2/issuetype/10901,10901,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Training/Enablement,False,51490.0
+Licensing,https://jira.atlassian.com/rest/api/2/issuetype/10902,10902,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51490&avatarType=issuetype,Licensing,False,51490.0
+Initiative,https://jira.atlassian.com/rest/api/2/issuetype/11000,11000,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51499&avatarType=issuetype,Initiative,False,51499.0
+Stream,https://jira.atlassian.com/rest/api/2/issuetype/11001,11001,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51494&avatarType=issuetype,Stream,False,51494.0
+Flaky Test,https://jira.atlassian.com/rest/api/2/issuetype/11100,11100,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=7108494&avatarType=issuetype,Flaky Test,False,7108494.0
+Blocker,https://jira.atlassian.com/rest/api/2/issuetype/11300,11300,,https://jira.atlassian.com/secure/viewavatar?size=xsmall&avatarId=51493&avatarType=issuetype,Blocker,False,51493.0
